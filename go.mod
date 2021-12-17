@@ -1,4 +1,4 @@
-module github.com/martinlindhe/inputbox
+module github.com/Shieldoo/inputbox
 
 go 1.16
 
